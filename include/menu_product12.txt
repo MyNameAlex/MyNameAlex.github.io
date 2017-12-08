@@ -1,0 +1,13 @@
+        <ul class="menu">
+            <li class="c4"><a href="postery.shtml">Постеры
+</a></li>  
+            <li class="c5"><a href="plakaty-a4.shtml">Плакаты А4
+</a></li>        
+            <li class="c6"><a href="plakaty-a3.shtml">Плакаты А3
+</a></li>        
+            <li class="c7"><a href="plakaty-a2.shtml">Плакаты А2
+</a></li>        
+            <li class="c8"><a href="plakaty-b2.shtml">Плакаты B2
+</a></li>
+
+        </ul>

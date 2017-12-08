@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Фотографическое качество печати 300 dpi. Печать выполняется на финской бумаге высочайшего качества. Для надежной доставки, каждый заказ мы упаковываем в двухслойную крафтовую бумагу и непромокаемую пленку. Доставка Новой Почтой по Киеву и всей Украине." />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Календарь-домик (с перекидными листами) с доставкой в Киев, Харьков, Одессу, Львов, Днепр и по другим городам Украны</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/table.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix" data-offset-top="-1">
+        <!--#include virtual="include/menu2.txt"-->
+
+        <!--SECTION-->        
+
+        <!--#include virtual="include/menu_product10.txt"-->
+        </div>
+
+
+
+    
+<!--PRODUCT-->
+    <div class="container-fluid cont_flu">
+        <div class="row">
+            <img src="products/kalendar/kalendar_domik_s_listami.jpg" alt="Календарь" class="img-responsive">
+                <div class="img_txt">
+                    <h1>Печать календарей-домиков (с перекидными листами):</h1>
+                    <ul class="list">
+                        <li><strong>Размер календаря-домик&nbsp;&ndash;</strong> 210*110*80мм. Односторонняя полноцветная печать.</li>
+                        <li><strong>Бумага&nbsp;:</strong> глянцевый картон&nbsp;двукратного мелования 300гр/м2. Финляндия.</li>
+                        <!--#include virtual="include/list.txt"-->
+                    </ul>
+                </div>
+        </div>
+    </div>
+
+
+    
+<!--SCHEDULE-->    
+    
+        <!--#include virtual="include/schedule_3.txt"-->
+
+    
+
+<!--SLIDER-->
+
+            <!--#include virtual="include/slider_10.txt"-->
+
+
+    
+    <!--Price-->
+    <div class="container" style="margin-top:-60px;">
+        <div class="row">
+            <h2>Цены на печать календарей-домиков (с перекидными листами)</h2>
+            <!--#include virtual="include/dostavka_1.txt"-->
+        </div>
+    </div>
+   
+    
+    <div class="container" style="margin-top:10px;">
+        <div class="row aaa">
+    <blockquote>
+      <p>Цветная печать</p>
+    </blockquote>
+            <table class="theTable footable table outerBorder footable-loaded" style="width: 100%; margin-top:-10px;">
+                    <thead>
+		<tr>
+			<td>Тираж</td>
+			<td>Цена, грн</td>
+		</tr>
+		
+                </thead>
+                
+                	<tbody>
+		<tr>
+			<td>10</td>
+			<td>440</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>588</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>738</td>
+		</tr>
+		<tr>
+			<td>40</td>
+			<td>881</td>
+		</tr>
+		<tr>
+			<td>50</td>
+			<td>1131</td>
+		</tr>
+		<tr>
+			<td>60</td>
+			<td>1282</td>
+		</tr>
+		<tr>
+			<td>70</td>
+			<td>1424</td>
+		</tr>
+		<tr>
+			<td>80</td>
+			<td>1575</td>
+		</tr>
+		<tr>
+			<td>90</td>
+			<td>1726</td>
+		</tr>
+		<tr>
+			<td>100</td>
+			<td>2251</td>
+		</tr>
+		<tr>
+			<td>150</td>
+			<td>2996</td>
+		</tr>
+		<tr>
+			<td>200</td>
+			<td>3732</td>
+		</tr>
+		<tr>
+			<td>250</td>
+			<td>4744</td>
+		</tr>
+		<tr>
+			<td>300</td>
+			<td>5489</td>
+		</tr>
+		<tr>
+			<td>350</td>
+			<td>6277</td>
+		</tr>
+		<tr>
+			<td>400</td>
+			<td>7013</td>
+		</tr>
+		<tr>
+			<td>450</td>
+			<td>7750</td>
+		</tr>
+		<tr>
+			<td>500</td>
+			<td>8234</td>
+		</tr>
+		<tr>
+			<td>600</td>
+			<td>8859</td>
+		</tr>
+		<tr>
+			<td>700</td>
+			<td>9424</td>
+		</tr>
+		<tr>
+			<td>800</td>
+			<td>9994</td>
+		</tr>
+		<tr>
+			<td>900</td>
+			<td>10562</td>
+		</tr>
+		<tr>
+			<td>1000</td>
+			<td>11426</td>
+		</tr>
+		<tr>
+			<td>1500</td>
+			<td>14366</td>
+		</tr>
+		<tr>
+			<td>2000</td>
+			<td>17168</td>
+		</tr>
+		<tr>
+			<td>2500</td>
+			<td>20176</td>
+		</tr>
+		<tr>
+			<td>3000</td>
+			<td>23181</td>
+		</tr>
+	</tbody>
+                        
+            </table>
+                
+        </div>
+    </div>    
+    
+    
+
+<!--TABS-->
+
+    <!--#include virtual="include/tabs_10.txt"-->
+    
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+    
+<!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product.txt"-->
+
+    
+
+
+
+</body>
+
+</html>

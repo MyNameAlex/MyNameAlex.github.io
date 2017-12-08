@@ -1,0 +1,78 @@
+/*TABLE STYLE*/
+
+.theTable {
+    border: 3px solid #445878;
+}
+
+.theTable tbody tr:nth-child(odd) {
+    background-color: #e2fffd;
+    /* фон нечетных строк */
+}
+
+.theTable tbody tr:nth-child(even) {
+    background-color: #a9dcd9;
+    /* фон четных строк */
+}
+
+.theTable > thead > tr > th {
+    color: #fff;
+    background-color: #445878;
+    background-image: none;
+    vertical-align: center;
+    text-align: center;
+}
+
+.footable > tbody > tr > td {
+    text-align: center;
+}
+
+.footable > tbody > tr > td {
+    border-left-style: solid;
+    border-top-style: solid;
+    padding: 7px;
+    border-color: #445878;
+}
+
+.footable > tbody > tr > td:first-child {
+    border-left: none;
+}
+
+.theTable > thead > tr > td:first-child {
+    vertical-align: bottom;
+}
+
+.theTable > thead > tr > td {
+    color: #fff;
+    background-color: #445878 !important;
+    background-image: none;
+    vertical-align: center;
+    text-align: center;
+    font-size: 16px;
+    min-width: 100px !important;
+}
+
+blockquote {
+    border-left: 3px solid #445878 !important;
+}
+
+
+tr.t_one td{
+border-right: 1px solid #ffffff;
+border-top: none !important;
+}
+tr.t_two td{
+border-right: 1px solid #ffffff;
+border-top: none !important;
+}
+tr.t_three td{
+border-right: 1px solid #ffffff;
+border-top: none !important;
+}
+
+
+.zebra2 tr:hover td{
+background: #4a382a;/* фон строки при наведении */
+}
+.theTable tr:hover td{
+background: #82adc5;/* фон строки при наведении */
+}

@@ -1,0 +1,6 @@
+        <ul class="menu">
+            <li class="c1"><a href="vizitki.shtml">Визитки</a></li>
+            <li class="c2"><a href="vizitki-skruglenie.shtml">Визитки со скруглением</a></li>
+            <li class="c3"><a href="vizitki-laminacija.shtml">Визитки с ламинацией</a></li>
+            <li class="c4"><a href="evrovizitki.shtml">Евровизитки</a></li>
+        </ul>

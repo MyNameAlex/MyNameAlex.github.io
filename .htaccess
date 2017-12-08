@@ -1,0 +1,17 @@
+DirectoryIndex index.shtml
+
+Order Allow,Deny
+Allow from all
+
+Deny from 37.73.206.176
+Deny from 46.211.69.6
+Deny from 95.211.236.120
+Deny from 176.36.221.218
+Deny from 176.38.165.29
+Deny from 188.231.247.2
+Deny from 213.7.36.180
+Deny from 88.244.205.190
+Deny from 91.124.199.150
+Deny from 94.178.62.127
+Deny from 94.45.43.146
+Deny from 194.187.130.106

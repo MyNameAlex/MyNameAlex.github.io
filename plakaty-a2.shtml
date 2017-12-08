@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Фотографическое качество печати 300 dpi. Печать выполняется на финской бумаге высочайшего качества. Для надежной доставки, каждый заказ мы упаковываем в двухслойную крафтовую бумагу и непромокаемую пленку. Доставка Новой Почтой по Киеву и всей Украине." />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Плакаты А2 с доставкой в Киев, Харьков, Одессу, Львов, Днепр и по другим городам Украны</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/table.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix" data-offset-top="-1">
+        <!--#include virtual="include/menu2.txt"-->
+
+        <!--SECTION-->        
+
+        <!--#include virtual="include/menu_product12.txt"-->
+        </div>
+
+
+
+    
+<!--PRODUCT-->
+    <div class="container-fluid cont_flu">
+        <div class="row">
+            <img src="products/plakaty/plakat_a2.jpg" alt="Плакат" class="img-responsive">
+                <div class="img_txt">
+                    <h1>Печать плакатов А2 с доставкой по всей Украине:</h1>
+                    <ul class="list">
+<li><strong>Размер плаката&nbsp;</strong>- 420*594мм, односторонняя полноцветная печать.&nbsp;</li>
+<li><strong>Материал</strong>&nbsp;&ndash; широкий ассортимент плотностей: 90гр/м2, 115гр/м2, 130гр/м2, 150гр/м2, 200гр/м2. Односторонняя глянцевая бумага двукратного мелования. Финляндия.</li>
+                        <!--#include virtual="include/list.txt"-->
+                    </ul>
+                </div>
+        </div>
+    </div>
+
+
+    
+<!--SCHEDULE-->    
+    
+        <!--#include virtual="include/schedule_1.txt"-->
+
+    
+
+<!--SLIDER-->
+
+            <!--#include virtual="include/slider_12.txt"-->
+
+
+    
+    <!--Price-->
+    <div class="container" style="margin-top:-60px;">
+        <div class="row">
+            <h2>Цены на печать плакатов А2 в Киеве</h2>
+            <!--#include virtual="include/dostavka_1.txt"-->
+        </div>
+    </div>
+
+
+    
+    <div class="container" style="margin-top:10px;">
+        <div class="row aaa">
+    <blockquote>
+      <p>Односторонняя цветная печать</p>
+    </blockquote>
+            <table class="theTable footable table outerBorder footable-loaded" style="width: 100%; margin-top:-10px;">
+                    <thead>
+
+		<tr>
+			<td>Тираж</td>
+			<td>90гр</td>
+			<td>115гр</td>
+			<td>130гр</td>
+			<td>150гр</td>
+			<td>200гр</td>
+		</tr>
+		
+                </thead>
+                
+                	<tbody>
+		<tr>
+			<td>50</td>
+			<td>1101</td>
+			<td>1135</td>
+			<td>1159</td>
+			<td>1190</td>
+			<td>1273</td>
+		</tr>
+		<tr>
+			<td>100</td>
+			<td>1220</td>
+			<td>1266</td>
+			<td>1296</td>
+			<td>1338</td>
+			<td>1449</td>
+		</tr>
+		<tr>
+			<td>150</td>
+			<td>1270</td>
+			<td>1327</td>
+			<td>1365</td>
+			<td>1418</td>
+			<td>1556</td>
+		</tr>
+		<tr>
+			<td>200</td>
+			<td>1339</td>
+			<td>1408</td>
+			<td>1453</td>
+			<td>1516</td>
+			<td>1682</td>
+		</tr>
+		<tr>
+			<td>250</td>
+			<td>1389</td>
+			<td>1469</td>
+			<td>1522</td>
+			<td>1595</td>
+			<td>1789</td>
+		</tr>
+		<tr>
+			<td>300</td>
+			<td>1444</td>
+			<td>1536</td>
+			<td>1596</td>
+			<td>1680</td>
+			<td>1901</td>
+		</tr>
+		<tr>
+			<td>350</td>
+			<td>1504</td>
+			<td>1607</td>
+			<td>1675</td>
+			<td>1769</td>
+			<td>2017</td>
+		</tr>
+		<tr>
+			<td>400</td>
+			<td>1569</td>
+			<td>1684</td>
+			<td>1759</td>
+			<td>1864</td>
+			<td>2139</td>
+		</tr>
+		<tr>
+			<td>450</td>
+			<td>1634</td>
+			<td>1760</td>
+			<td>1843</td>
+			<td>1958</td>
+			<td>2261</td>
+		</tr>
+		<tr>
+			<td>500</td>
+			<td>1792</td>
+			<td>1929</td>
+			<td>2019</td>
+			<td>2144</td>
+			<td>2475</td>
+		</tr>
+		<tr>
+			<td>750</td>
+			<td>2020</td>
+			<td>2207</td>
+			<td>2331</td>
+			<td>2501</td>
+			<td>2951</td>
+		</tr>
+		<tr>
+			<td>1000</td>
+			<td>2277</td>
+			<td>2518</td>
+			<td>2677</td>
+			<td>2897</td>
+			<td>3479</td>
+		</tr>
+		<tr>
+			<td>1250</td>
+			<td>2535</td>
+			<td>2820</td>
+			<td>3008</td>
+			<td>3268</td>
+			<td>3956</td>
+		</tr>
+		<tr>
+			<td>1500</td>
+			<td>2828</td>
+			<td>3166</td>
+			<td>3388</td>
+			<td>3697</td>
+			<td>4511</td>
+		</tr>
+		<tr>
+			<td>2000</td>
+			<td>3395</td>
+			<td>3848</td>
+			<td>4129</td>
+			<td>4533</td>
+			<td>5600</td>
+		</tr>
+	</tbody>
+       
+                            </table>
+        </div>
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+<!--TABS-->
+
+    <!--#include virtual="include/tabs_12.txt"-->
+    
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+    
+<!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product.txt"-->
+
+    
+
+
+
+</body>
+
+</html>

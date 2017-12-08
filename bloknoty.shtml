@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Печать блокнотов в Киеве. Изготовление блокнотов в типографии. Блокноты с логотипом. Заказать по низким ценам. Доставка Новой Почтой в Харьков, Львов, Днепр, Одессу и другие города Украины. " />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Печать блокнотов в Киеве, изготовление блокнотов с логотипом с доставкой в Харьков, Одессу, Львов, Днепр</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/table.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix" data-offset-top="-1">
+        <!--#include virtual="include/menu2.txt"-->
+
+        <!--SECTION-->        
+
+        <!--#include virtual="include/menu_product5.txt"-->
+        </div>
+
+
+
+    
+<!--PRODUCT-->
+    <div class="container-fluid cont_flu">
+        <div class="row">
+            <img src="products/banner/banner.jpg" alt="Флаер" class="img-responsive">
+                <div class="img_txt">
+                    <h1>Печать блокнотов с доставкой по всей Украине:</h1>
+                    <ul class="list">
+	<li><strong>Размер блокнота</strong>&nbsp;&ndash; три размера на выбор : А6, А5, А4. Односторонняя цветная печать.</li>
+	<li><strong>Бумага</strong>&nbsp;&ndash; обложка - 300гр/м2, внутренние листы - 80гр/м2 (50 листов) . Финляндия.</li>
+                        <!--#include virtual="include/list.txt"-->
+                    </ul>
+                </div>
+        </div>
+    </div>
+
+
+    
+<!--SCHEDULE-->    
+    
+        <!--#include virtual="include/schedule_3.txt"-->
+
+    
+
+<!--SLIDER-->
+
+            <!--#include virtual="include/slider_5.txt"-->
+
+
+    
+    <!--Price-->
+    <div class="container" style="margin-top:-60px;">
+        <div class="row">
+            <h2>Цены на печать блокнотов с логотипом</h2>
+            <!--#include virtual="include/dostavka_1.txt"-->
+        </div>
+    </div>
+
+
+    
+    <div class="container" style="margin-top:10px;">
+        <div class="row aaa">
+    <blockquote>
+      <p>Односторонняя цветная печать</p>
+    </blockquote>
+            <table class="theTable footable table outerBorder footable-loaded" style="width: 100%; margin-top:-10px;">
+        <thead>
+
+		<tr>
+			<td>Тираж</td>
+			<td>А6</td>
+			<td>А5</td>
+			<td>А4</td>
+		</tr>
+                </thead>
+                	<tbody>
+		<tr>
+			<td>10</td>
+			<td>380</td>
+			<td>450</td>
+			<td>560</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>460</td>
+			<td>580</td>
+			<td>760</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>540</td>
+			<td>700</td>
+			<td>950</td>
+		</tr>
+		<tr>
+			<td>40</td>
+			<td>610</td>
+			<td>820</td>
+			<td>1150</td>
+		</tr>
+		<tr>
+			<td>50</td>
+			<td>680</td>
+			<td>995</td>
+			<td>1340</td>
+		</tr>
+		<tr>
+			<td>100</td>
+			<td>1035</td>
+			<td>1570</td>
+			<td>2390</td>
+		</tr>
+		<tr>
+			<td>150</td>
+			<td>1450</td>
+			<td>2130</td>
+			<td>3390</td>
+		</tr>
+		<tr>
+			<td>200</td>
+			<td>1800</td>
+			<td>2720</td>
+			<td>4400</td>
+		</tr>
+		<tr>
+			<td>250</td>
+			<td>2150</td>
+			<td>3320</td>
+			<td>5400</td>
+		</tr>
+		<tr>
+			<td>300</td>
+			<td>2510</td>
+			<td>3920</td>
+			<td>6410</td>
+		</tr>
+		<tr>
+			<td>400</td>
+			<td>3220</td>
+			<td>5110</td>
+			<td>8420</td>
+		</tr>
+		<tr>
+			<td>500</td>
+			<td>3950</td>
+			<td>6310</td>
+			<td>10330</td>
+		</tr>
+		<tr>
+			<td>600</td>
+			<td>4670</td>
+			<td>7500</td>
+			<td>12320</td>
+		</tr>
+		<tr>
+			<td>700</td>
+			<td>5420</td>
+			<td>8710</td>
+			<td>14330</td>
+		</tr>
+		<tr>
+			<td>800</td>
+			<td>6170</td>
+			<td>9930</td>
+			<td>16340</td>
+		</tr>
+		<tr>
+			<td>900</td>
+			<td>6920</td>
+			<td>11140</td>
+			<td>18350</td>
+		</tr>
+		<tr>
+			<td>1000</td>
+			<td>7660</td>
+			<td>12350</td>
+			<td>20370</td>
+		</tr>
+	</tbody>
+            </table>
+                
+        </div>
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+<!--TABS-->
+
+    <!--#include virtual="include/tabs_5.txt"-->
+    
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+    
+<!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product.txt"-->
+
+    
+
+
+
+</body>
+
+</html>

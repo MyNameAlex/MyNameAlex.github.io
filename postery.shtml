@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Печать постеров в Киеве. Печать фото постеров. Печать постеров а1. Широкоформатная печать постеров. Низкие цены. Доставка Новой Почтой в Харьков, Львов, Днепр, Одессу и другие города Украины. " />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Печать постеров в Киеве, широкоформатная печать с доставкой в Харьков, Одессу, Львов, Днепр</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/table.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix" data-offset-top="-1">
+        <!--#include virtual="include/menu2.txt"-->
+
+        <!--SECTION-->        
+
+        <!--#include virtual="include/menu_product12.txt"-->
+        </div>
+
+
+
+    
+<!--PRODUCT-->
+    <div class="container-fluid cont_flu">
+        <div class="row">
+            <img src="products/plakaty/poster.jpg" alt="Плакат" class="img-responsive">
+                <div class="img_txt">
+                    <h1>Печать постеров с доставкой по всей Украине:</h1>
+                    <ul class="list">
+<li><strong>Размер постера</strong>&nbsp;можно подобрать согласно Ваших пожеланий, односторонняя полноцветная печать. Вашему вниманию предлагаем популярные размеры: А0, А1, А2, А3.</li>
+<li><strong>Материал&nbsp;&ndash;</strong> постерная бумага City light плотностью 150 гр/м2. Финляндия.</li>
+                        <!--#include virtual="include/list.txt"-->
+                    </ul>
+                </div>
+        </div>
+    </div>
+
+
+    
+<!--SCHEDULE-->    
+    
+        <!--#include virtual="include/schedule_1.txt"-->
+
+    
+
+<!--SLIDER-->
+
+            <!--#include virtual="include/slider_12.txt"-->
+
+
+    
+    <!--Price-->
+    <div class="container" style="margin-top:-60px;">
+        <div class="row">
+            <h2>Цены на печать постеров в Киеве</h2>
+            <!--#include virtual="include/dostavka_2.txt"-->
+        </div>
+    </div>
+
+
+    
+    <div class="container" style="margin-top:10px;">
+        <div class="row aaa">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+    <blockquote>
+      <p>Односторонняя цветная печать</p>
+    </blockquote>
+            <table class="theTable footable table outerBorder footable-loaded" style="width: 100%; margin-top:-10px;">
+        <thead>
+
+		<tr>
+			<td>Размер</td>
+			<td>Цена</td>
+		</tr>
+		
+                </thead>
+                
+                            	<tbody>
+		<tr>
+			<td>297*210</td>
+			<td>45</td>
+		</tr>
+		<tr>
+			<td>420*297</td>
+			<td>45</td>
+		</tr>
+		<tr>
+			<td>594*420</td>
+			<td>45</td>
+		</tr>
+		<tr>
+			<td>700*500</td>
+			<td>49</td>
+		</tr>
+		<tr>
+			<td>841*594</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>1189*841</td>
+			<td>140</td>
+		</tr>
+		<tr>
+			<td>1500*1000</td>
+			<td>210</td>
+		</tr>
+	</tbody>
+               
+                            </table>
+                    
+            </div>
+            
+            
+            
+            <div class="col-xs-12 col-sm-12 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">       
+          
+              
+
+     <div class="well text-center">Рассчитать стоимость постера согласно нужных размеров:</div>        
+            
+                <div class="input-group">
+                  <span class="input-group-addon">Ширина:</span>
+                  <input id="num1" type="number" class="form-control" aria-label="Amount (to the nearest dollar)" onchange="calc(1)" onkeyup="calc(1)"/>
+                </div> 
+                <div class="well well-sm">(минимальная ширина - 100мм, максимальная - 1580мм)</div>
+                
+            
+            
+                <div class="input-group">
+                  <span class="input-group-addon">Длина:</span>
+                  <input id="num2" type="number" class="form-control" aria-label="Amount (to the nearest dollar)" onchange="calc(1)" onkeyup="calc(1)"/>
+                </div>             
+                <div class="well well-sm">(минимальная длина - 100мм, максимальная - любая)</div>
+            
+               
+            
+                <div class="input-group" style="margin-bottom: 20px;">
+                  <span class="input-group-addon">Тираж: </span>
+                  <input id="num3" type="number" class="form-control" aria-label="Amount (to the nearest dollar)" onchange="calc(1)" onkeyup="calc(1)"/>
+                </div> 
+<!--                <div class="well well-sm">(минимальный 1шт.)</div>-->
+            
+            
+         
+                   <span class="input-group-btn">
+                            <button class="btn btn-success btn-block" type="submit" onclick="add()" onchange="calc(1)" onkeyup="calc(1)"/>Рассчитать стоимость!</button>
+                   </span>          
+   
+        
+        
+               <div class="well well-sm" style="margin-top: 20px;">Итог: <span id="result"></span></div>
+
+                
+        
+
+        </div>
+ 
+            
+            
+        </div>
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+<!--TABS-->
+
+    <!--#include virtual="include/tabs_12.txt"-->
+    
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+    
+<!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product.txt"-->
+
+    
+<script>
+function add(){
+    var a = document.getElementById('num1').value;
+    var b = document.getElementById('num2').value;
+    var c = document.getElementById('num3').value;
+      if(a>1580) document.getElementById('num1').value = "1580";
+         if(c==''){
+             c = 1;
+             document.getElementById('num3').value = c;
+           }
+           else c = document.getElementById('num3').value;
+           if(a<100) document.getElementById('num1').value = "100";
+           if(b<100) document.getElementById('num2').value = "100";
+
+    var x = (+a * +b)/1000000;
+         if(x<0.3){
+            var w = 45 *+c;
+            w = Math.round(w);
+            document.getElementById("result").innerHTML = "<b>"+w+"</b>&nbsp;грн.";
+           }
+           else {
+            var w = (+x *140) *+c;
+            w = Math.round(w);
+            document.getElementById("result").innerHTML = "<b>"+w+"</b>&nbsp;грн.";
+           }
+    
+ /*   var w = +x *8 *+c + 30;
+    w = Math.round(w);
+    document.getElementById("result").innerHTML = "<b>"+w+"</b>&nbsp;грн.";*/
+
+}
+</script>
+
+
+
+</body>
+
+</html>

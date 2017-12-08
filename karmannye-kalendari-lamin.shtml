@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Фотографическое качество печати 300 dpi. Печать выполняется на финской бумаге высочайшего качества. Для надежной доставки, каждый заказ мы упаковываем в двухслойную крафтовую бумагу и непромокаемую пленку. Доставка Новой Почтой по Киеву и всей Украине." />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Карманные календари с ламинацией с доставкой в Киев, Харьков, Одессу, Львов, Днепр и по другим городам Украны</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/table.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix" data-offset-top="-1">
+        <!--#include virtual="include/menu2.txt"-->
+
+        <!--SECTION-->        
+
+        <!--#include virtual="include/menu_product10.txt"-->
+        </div>
+
+
+
+    
+<!--PRODUCT-->
+    <div class="container-fluid cont_flu">
+        <div class="row">
+            <img src="products/kalendar/kalendar_karman_laminac.jpg" alt="Календарь" class="img-responsive">
+                <div class="img_txt">
+                    <h1>Печать карманных календарей с ламинацией в Киеве:</h1>
+                    <ul class="list">
+                        <li><strong>Размер карманного календаря с ламинацией</strong>&nbsp;&ndash; 100*70мм, с одной стороны покрыта глянцевой ламинацией (долговечная в использовании), на выбор односторонняя либо двухсторонняя печать</li>
+                        <li><strong>Бумага</strong>&nbsp;&ndash; двусторонний глянцевый картон двукратного мелования. Финляндия.</li>
+                        <!--#include virtual="include/list.txt"-->
+                    </ul>
+                </div>
+        </div>
+    </div>
+
+
+    
+<!--SCHEDULE-->    
+    
+        <!--#include virtual="include/schedule_3.txt"-->
+
+    
+
+<!--SLIDER-->
+
+            <!--#include virtual="include/slider_10.txt"-->
+
+
+    
+    <!--Price-->
+    <div class="container" style="margin-top:-60px;">
+        <div class="row">
+            <h2>Цены на печать карманных календарей с ламинацией</h2>
+            <!--#include virtual="include/dostavka_1.txt"-->
+        </div>
+    </div>
+   
+  
+   <div class="container" style="margin-top:10px;">
+        <div class="row aaa">
+    <blockquote>
+      <p>Односторонняя цветная печать</p>
+    </blockquote>
+            <table class="theTable footable table outerBorder footable-loaded" style="width: 100%; margin-top:-10px;">
+                    <thead>
+            	<tbody>
+		<tr>
+			<td>Тираж</td>
+			<td>170гр/м2</td>
+			<td>250гр/м2</td>
+			<td>350гр/м2</td>
+		</tr>
+		<tr>
+			<td>500</td>
+			<td>281</td>
+			<td>301</td>
+			<td>333</td>
+		</tr>
+		<tr>
+			<td>1000</td>
+			<td>402</td>
+			<td>470</td>
+			<td>532</td>
+		</tr>
+		<tr>
+			<td>2000</td>
+			<td>780</td>
+			<td>916</td>
+			<td>1038</td>
+		</tr>
+		<tr>
+			<td>3000</td>
+			<td>1144</td>
+			<td>1348</td>
+			<td>1532</td>
+		</tr>
+		<tr>
+			<td>4000</td>
+			<td>1476</td>
+			<td>1750</td>
+			<td>1994</td>
+		</tr>
+		<tr>
+			<td>5000</td>
+			<td>1840</td>
+			<td>2180</td>
+			<td>2488</td>
+		</tr>
+		<tr>
+			<td>6000</td>
+			<td>2133</td>
+			<td>2543</td>
+			<td>2911</td>
+		</tr>
+		<tr>
+			<td>7000</td>
+			<td>2481</td>
+			<td>2959</td>
+			<td>3389</td>
+		</tr>
+		<tr>
+			<td>8000</td>
+			<td>2830</td>
+			<td>3376</td>
+			<td>3866</td>
+		</tr>
+		<tr>
+			<td>9000</td>
+			<td>3178</td>
+			<td>3792</td>
+			<td>4344</td>
+		</tr>
+		<tr>
+			<td>10000</td>
+			<td>3489</td>
+			<td>4173</td>
+			<td>4785</td>
+		</tr>
+	</tbody>            
+            </table>
+                
+        </div>
+    </div>    
+     
+    
+    
+    <div class="container" style="margin-top:10px;">
+        <div class="row aaa">
+    <blockquote>
+      <p>Двухсторонняя цветная печать</p>
+    </blockquote>
+            <table class="theTable footable table outerBorder footable-loaded" style="width: 100%; margin-top:-10px;">
+                    <thead>
+       
+		<tr>
+			<td>Тираж</td>
+			<td>170гр/м2</td>
+			<td>250гр/м2</td>
+			<td>350гр/м2</td>
+		</tr>
+                </thead>
+                     	<tbody>
+		<tr>
+			<td>500</td>
+			<td>326</td>
+			<td>350</td>
+			<td>384</td>
+		</tr>
+		<tr>
+			<td>1000</td>
+			<td>478</td>
+			<td>521</td>
+			<td>580</td>
+		</tr>
+		<tr>
+			<td>2000</td>
+			<td>931</td>
+			<td>1015</td>
+			<td>1133</td>
+		</tr>
+		<tr>
+			<td>3000</td>
+			<td>1371</td>
+			<td>1498</td>
+			<td>1675</td>
+		</tr>
+		<tr>
+			<td>4000</td>
+			<td>1779</td>
+			<td>1948</td>
+			<td>2185</td>
+		</tr>
+		<tr>
+			<td>5000</td>
+			<td>2217</td>
+			<td>2429</td>
+			<td>2725</td>
+		</tr>
+		<tr>
+			<td>6000</td>
+			<td>2587</td>
+			<td>2840</td>
+			<td>3195</td>
+		</tr>
+		<tr>
+			<td>7000</td>
+			<td>3011</td>
+			<td>3307</td>
+			<td>3721</td>
+		</tr>
+		<tr>
+			<td>8000</td>
+			<td>3434</td>
+			<td>3772</td>
+			<td>4246</td>
+		</tr>
+		<tr>
+			<td>9000</td>
+			<td>3858</td>
+			<td>4239</td>
+			<td>4771</td>
+		</tr>
+		<tr>
+			<td>10000</td>
+			<td>4246</td>
+			<td>4668</td>
+			<td>5260</td>
+		</tr>
+	</tbody>            
+            </table>
+                
+        </div>
+    </div>    
+    
+    
+
+<!--TABS-->
+
+    <!--#include virtual="include/tabs_10.txt"-->
+    
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+    
+<!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product.txt"-->
+
+    
+
+
+
+</body>
+
+</html>

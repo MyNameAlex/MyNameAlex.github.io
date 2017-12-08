@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Закажите сегодня и уже завтра мы отправим Новой Почтой Вашу продукцию. Телефоны: (044) 333-67-79, (095) 285-57-31, (067) 482-73-06, (093) 170-34-58" />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Контакты типографии Киевский Печатный Цех в Киеве</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    
+    <link href="css/style.css" rel="stylesheet"/>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    
+    
+    <!--VIDEO STYLE-->
+    <link rel="stylesheet" href="bg/reset.css">
+    <link rel="stylesheet" href="bg/style.css">
+    
+    <style>
+        #video-bg{
+        position: fixed;
+            
+            background: url(bg/daisy-stock-poster.jpg) no-repeat #383838;
+            z-index: -9999 !important;
+        }
+        #video-bg > video{
+            display: inline-block !important; 
+            
+        }
+
+.affix {
+    position: relative !important;
+    }
+.cont{margin-top: 50px;}
+                b, strong {
+   font-weight: bold; !important;
+}
+    </style>
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix marg" data-offset-top="-1">
+        <!--#include virtual="include/menu.txt"-->
+
+        <!--SECTION-->        
+        </div>
+
+
+    
+<!--Video-->
+<div id="video-bg">
+	<video width="100%" height="auto" autoplay="autoplay" loop="loop" preload="auto" poster="bg/daisy-stock-poster.jpg">
+		<source src="bg/daisy-stock-h264-video.mp4" type="video/mp4"></source>
+		<source src="bg/daisy-stock-webm-video.webm" type="video/webm"></source>
+	</video>
+</div>
+ 
+
+
+ 
+
+<div class="container cont">
+<!--<div class="row">
+    <p style="text-align: center;">
+			<span style="font-size:18px;">Закажите сегодня и уже завтра мы отправим Новой Почтой Вашу продукцию или заберите ее по адресу наших производственных мощностей.</span></p>
+		<hr /></div>-->
+		
+    <div class="row">
+		<p style="text-align: center;">
+			<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size: 28px;line-height: 1.42857143;color: #333;">Контакты:</span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;">Закажите сегодня и уже завтра мы отправим Новой Почтой Вашу продукцию или<br>заберите ее по адресу наших производственных мощностей: <strong>Киев, улица Автозаводская, 78а</strong></span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;">(044) 333-67-79 (многоканальный)</span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;">(095) 285-57-31</span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;">(067) 482-73-06</span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;">(093) 170-34-58</span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;"><a href="mailto:zakaz@kpw.com.ua" rel="noreferrer noopener" target="_blank">zakaz@kpw.com.ua</a></span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;"></span></p>
+		<hr>
+
+		<p style="text-align: center;">
+			<span style="font-size:18px;">График работы:</span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;">Понедельник - Пятница: с 09.00 до 18.00</span></p>
+		<p style="text-align: center;">
+			<span style="font-size:18px;">Суббота - Воскресенье:  с 11.00 до 18.00</span></p>
+			
+    <br>
+    </div>
+
+</div>
+
+
+<div style="margin-top: 70px; margin-bottom: 70px;">
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8533.881864513838!2d30.453909509211098!3d50.5129942589142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4d287c9e9fd8f%3A0xc9c677a8048f5910!2zNzhBLCDQstGD0LvQuNGG0Y8g0JDQstGC0L7Qt9Cw0LLQvtC00YHRjNC60LAsIDc40JAsINCa0LjRl9Cy!5e0!3m2!1suk!2sua!4v1511433613042" width="100%" height="400" frameborder="0" style="border:3" allowfullscreen=""></iframe>
+ </div>
+    
+    
+    
+
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+
+
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+<!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product2.txt"-->
+
+
+</body>
+
+</html>

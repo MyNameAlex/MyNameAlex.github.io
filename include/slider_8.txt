@@ -1,0 +1,24 @@
+    <div class="container" style="margin-top:4px; margin-bottom:4px;">
+        <div class="row">
+            <h2>Разработка дизайна с нуля</h2>
+            <div class="spn">Посмотрите&nbsp;<a href="dizajn.shtml"><strong>здесь</strong></a>&nbsp;последние <strong>200 макетов</strong>, сделанных для наших Клиентов.
+            <br>Разработка макета с нуля <strong>командой дизайнеров.</strong></div>
+        </div>
+    </div>
+
+
+
+    <div class="slider_img">
+        <ul class="bxslider">
+            <li><img src="slider/buklet_1.jpg" /></li>
+            <li><img src="slider/buklet_2.jpg" /></li>
+            <li><img src="slider/buklet_3.jpg" /></li>
+            <li><img src="slider/buklet_4.jpg" /></li>
+            <li><img src="slider/buklet_5.jpg" /></li>
+            <li><img src="slider/buklet_6.jpg" /></li>
+            <li><img src="slider/buklet_7.jpg" /></li>
+            <li><img src="slider/buklet_8.jpg" /></li>
+            <li><img src="slider/buklet_9.jpg" /></li>
+            <li><img src="slider/buklet_10.jpg" /></li>
+        </ul>
+    </div>

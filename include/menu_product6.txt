@@ -1,0 +1,19 @@
+        <ul class="menu">
+        
+            <li class="c1"><a href="listovki-evro.shtml">Листовки Евро
+</a></li>        
+            <li class="c2"><a href="listovki-a8.shtml">Листовки А8
+</a></li>        
+            <li class="c3"><a href="listovki-a7.shtml">Листовки А7
+</a></li>        
+            <li class="c4"><a href="listovki-a6.shtml">Листовки А6
+</a></li>        
+            <li class="c5"><a href="listovki-a5.shtml">Листовки А5
+</a></li>        
+            <li class="c6"><a href="listovki-a4.shtml">Листовки А4
+</a></li>        
+            <li class="c7"><a href="listovki-a3.shtml">Листовки А3
+</a></li>        
+            <li class="c8"><a href="listovki-mini.shtml">Листовки Мини
+</a></li>
+        </ul>

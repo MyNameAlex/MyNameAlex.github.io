@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /contacts.shtml
+
+Disallow: /dizajn.shtml
+
+Host: kpw.com.ua

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Изготовление и печать полиграфической продукции в Киеве с доставкой по всей Украине: Баннеры, Бирки, Блокноты, Буклеты, Визитки, Календари, Каталоги, Листовки, Наклейки, Оракал, Папки, Плакаты, Таблички, Флаера" />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Каталог полиграфической продукции: Баннеры, Бирки, Блокноты, Буклеты, Визитки, Календари, Каталоги, Листовки, Наклейки, Оракал, Папки, Плакаты, Таблички, Флаера</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/table.css" rel="stylesheet">
+    
+    <link href="css/style.css" rel="stylesheet"/>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix" data-offset-top="-1">
+        <!--#include virtual="include/menu2.txt"-->
+
+        <!--SECTION-->        
+        </div>
+
+
+
+      <div class="container toppad">
+        <div class="row">
+         
+            <h3 style="    color: #fd6f85;">Готово, скоро мы отправим образцы с нашей продукцией на указанный Вами почтовый адрес.</h3>
+          <h1>Каталог полиграфической продукции</h1>
+        </div>
+          <div class="row" style="padding-top:10px; text-align:center;">
+                    <button type="button" class="control" data-filter="all">Всe</button>
+                    <button type="button" class="control" data-filter=".b1">Баннеры</button>
+                    <button type="button" class="control" data-filter=".b2">Бирки</button>
+                    <button type="button" class="control" data-filter=".b3">Блокноты</button>
+                    <button type="button" class="control" data-filter=".b4">Буклеты</button>
+                    <button type="button" class="control" data-filter=".v1">Визитки</button>
+                    <button type="button" class="control" data-filter=".k1">Календари</button>
+<!--                    <button type="button" class="control" data-filter=".k2">Каталоги</button>-->
+                    <button type="button" class="control" data-filter=".l1">Листовки</button>
+                    <button type="button" class="control" data-filter=".n1">Наклейки</button>
+                    <button type="button" class="control" data-filter=".o1">Оракал</button>
+                    <button type="button" class="control" data-filter=".p1">Папки</button>
+                    <button type="button" class="control" data-filter=".p2">Плакаты</button>
+                    <button type="button" class="control" data-filter=".t1">Таблички</button>
+                    <button type="button" class="control" data-filter=".f1">Флаера</button>
+  
+              
+<!--                <button type="button" class="control" data-sort="default:asc">Asc</button>
+                    <button type="button" class="control" data-sort="default:desc">Desc</button>-->
+                </div>
+      </div>
+      
+            <div class="container2">
+            <div class="mix b1">
+                <a href="bannery.shtml">
+                    <img src="products_min/banner/banner.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Баннеры</div>  
+                </a>              
+            </div>
+                
+                
+            <div class="mix b2">
+                <a href="birki-50x90.shtml">
+                    <img src="products_min/birka/birka1.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Бирки 50x90мм.</div>  
+                </a>                 
+            </div>
+            <div class="mix b2">
+                <a href="birki-45x50.shtml">
+                    <img src="products_min/birka/birka2.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Бирки 45x50мм.</div>  
+                </a>                 
+            </div>
+            <div class="mix b2">
+                <a href="birki-30x50.shtml">
+                    <img src="products_min/birka/birka3.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Бирки 30x50мм.</div>  
+                </a>                 
+            </div>
+                
+                
+            <div class="mix b3">                
+                <a href="bloknoty.shtml">
+                    <img src="products_min/bloknot/bloknot.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Блокноты</div>  
+                </a>  
+            </div>
+                
+                
+            <div class="mix b4">
+                <a href="evrobuklet.shtml">
+                    <img src="products_min/buklet/euro_buklet.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Евробуклет</div>  
+                </a>  
+            </div>                  
+            <div class="mix b4">
+                <a href="minibuklet.shtml">
+                    <img src="products_min/buklet/buklet_mini.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Минибуклет</div>  
+                </a>  
+            </div>                  
+            <div class="mix b4">
+                <a href="buklet-a4.shtml">
+                    <img src="products_min/buklet/buklet_a4.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Буклет А4</div>  
+                </a>  
+            </div>                  
+            <div class="mix b4">
+                <a href="buklet-a5.shtml">
+                    <img src="products_min/buklet/buklet_a5.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Буклет А5</div>  
+                </a>  
+            </div>                  
+            <div class="mix b4">
+                <a href="buklet-a6.shtml">
+                    <img src="products_min/buklet/buklet_a6.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Буклет А6</div>  
+                </a>  
+            </div>                  
+            <div class="mix b4">
+                <a href="buklet-a7.shtml">
+                    <img src="products_min/buklet/buklet_a7.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Буклет А7</div>  
+                </a>  
+            </div>   
+                
+                
+            <div class="mix v1">
+                <a href="vizitki.shtml">
+                    <img src="products_min/vizitka/vizitka.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Визитки (стандарт)</div>  
+                </a>
+            </div>                
+            <div class="mix v1">
+                <a href="vizitki-skruglenie.shtml">
+                    <img src="products_min/vizitka/vizitka_s_zakrugleniem.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Визитки со скруглением</div>  
+                </a>
+            </div>                
+            <div class="mix v1">
+                <a href="vizitki-laminacija.shtml">
+                    <img src="products_min/vizitka/vizitka_laminac.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Визитки с ламинацией</div>  
+                </a>
+            </div>                
+            <div class="mix v1">
+                <a href="evrovizitki.shtml">
+                    <img src="products_min/vizitka/vizitka_euro.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Евровизитки</div>  
+                </a>
+            </div>
+                
+                
+            <div class="mix k1">
+                <a href="karmannye-kalendari.shtml">
+                    <img src="products_min/kalendar/kalendar_karman.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Карманные календари</div>  
+                </a>
+            </div>                
+            <div class="mix k1">
+                <a href="karmannye-kalendari-lamin.shtml">
+                    <img src="products_min/kalendar/kalendar_karman_laminac.jpg" alt="" class="img-responsive">
+                        <div class="product_txt2">Карманные календари</br>с ламинацией</div>  
+                </a>
+            </div>                
+            <div class="mix k1">
+                <a href="kalendar-kvartal-1pry.shtml">
+                    <img src="products_min/kalendar/kalendar_kvartal_1prugina.jpg" alt="" class="img-responsive">
+                        <div class="product_txt2">Квартальный календарь</br>(1 пружина)</div>  
+                </a>
+            </div>                
+            <div class="mix k1">
+                <a href="kalendar-kvartal-3pry.shtml">
+                    <img src="products_min/kalendar/kalendar_kvartal_3pruginy.jpg" alt="" class="img-responsive">
+                        <div class="product_txt2">Квартальный календарь</br>(3 пружина)</div>  
+                </a>
+            </div>                
+            <div class="mix k1">
+                <a href="kalendar-domik-bez.shtml">
+                    <img src="products_min/kalendar/kalendar_domik_bez_listov.jpg" alt="" class="img-responsive">
+                        <div class="product_txt2">Календарь-домик</br>(без перекидных листов)</div>  
+                </a>
+            </div>                
+            <div class="mix k1">
+                <a href="kalendar-domik-perekid.shtml">
+                    <img src="products_min/kalendar/kalendar_domik_s_listami.jpg" alt="" class="img-responsive">
+                        <div class="product_txt2">Календарь-домик</br>(с перекидными листами)</div>  
+                </a>
+            </div>
+                
+                
+
+
+
+                
+<!--            <div class="mix k2">                <a href="dizajn/2.jpg">
+                    <img src="test_product_1.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">    KATALOG 4 SHTYKU</div>  
+                </a>  </div>-->
+
+
+
+
+
+            <div class="mix l1">
+                <a href="listovki-a4.shtml">
+                    <img src="products_min/listovki/listovka_a4.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки А4</div>  
+                </a>
+            </div> 
+            <div class="mix l1">
+                <a href="listovki-evro.shtml">
+                    <img src="products_min/listovki/listovka_euro.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки Евро</div>  
+                </a>
+            </div> 
+            <div class="mix l1">
+                <a href="listovki-mini.shtml">
+                    <img src="products_min/listovki/listovka_mini.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки Мини</div>  
+                </a>
+            </div> 
+            <div class="mix l1">
+                <a href="listovki-a3.shtml">
+                    <img src="products_min/listovki/listovka_a3.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки А3</div>  
+                </a>
+            </div> 
+            <div class="mix l1">
+                <a href="listovki-a5.shtml">
+                    <img src="products_min/listovki/listovka_a5.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки А5</div>  
+                </a>
+            </div> 
+            <div class="mix l1">
+                <a href="listovki-a6.shtml">
+                    <img src="products_min/listovki/listovka_a6.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки А6</div>  
+                </a>
+            </div> 
+            <div class="mix l1">
+                <a href="listovki-a7.shtml">
+                    <img src="products_min/listovki/listovka_a7.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки А7</div>  
+                </a>
+            </div> 
+            <div class="mix l1">
+                <a href="listovki-a8.shtml">
+                    <img src="products_min/listovki/listovka_a8.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Листовки А8</div>  
+                </a>
+            </div> 
+
+                
+            <div class="mix n1">
+                <a href="naklejki.shtml">
+                    <img src="products_min/nakleika/nakleika.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Наклейки</div>  
+                </a>
+            </div>
+
+
+            <div class="mix o1"> 
+                <a href="orakal.shtml">
+                    <img src="products_min/oracal/oracal.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Оракал</div>  
+                </a>
+            </div>
+
+
+            <div class="mix p1">
+                <a href="papki.shtml">
+                    <img src="products_min/papki/papki.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Папки</div>  
+                </a>
+            </div>
+
+
+            <div class="mix p2">                
+                <a href="postery.shtml">
+                    <img src="products_min/plakaty/poster.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Постеры</div>  
+                </a> 
+            </div>
+            <div class="mix p2">                
+                <a href="plakaty-a4.shtml">
+                    <img src="products_min/plakaty/plakat_a4.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Плакаты А4</div>  
+                </a> 
+            </div>
+            <div class="mix p2">                
+                <a href="plakaty-a3.shtml">
+                    <img src="products_min/plakaty/plakat_a3.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Плакаты А3</div>  
+                </a> 
+            </div>
+            <div class="mix p2">                
+                <a href="plakaty-a2.shtml">
+                    <img src="products_min/plakaty/plakat_a2.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Плакаты А2</div>  
+                </a> 
+            </div>
+            <div class="mix p2">                
+                <a href="plakaty-b2.shtml">
+                    <img src="products_min/plakaty/plakat_b2.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Плакаты В2</div>  
+                </a> 
+            </div>
+
+
+            <div class="mix t1">
+                <a href="tablichki.shtml">
+                    <img src="products_min/tablichka/tablichka.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Таблички</div>  
+                </a>
+            </div>
+
+
+            <div class="mix f1">
+                <a href="evroflaer.shtml">
+                    <img src="products_min/flaer/euro_flaer.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Еврофлаер</div>  
+                </a> 
+            </div>
+            <div class="mix f1">
+                <a href="flaer-optima.shtml">
+                    <img src="products_min/flaer/flaerplus.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Флаер Оптима</div>  
+                </a> 
+            </div>
+            <div class="mix f1">
+                <a href="miniflaer.shtml">
+                    <img src="products_min/flaer/mini_flaer.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Минифлаер</div>  
+                </a> 
+            </div>
+            <div class="mix f1">
+                <a href="flaer-a7.shtml">
+                    <img src="products_min/flaer/flaer_a7.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Флаер А7</div>  
+                </a> 
+            </div>
+            <div class="mix f1">
+                <a href="flaer-a8.shtml">
+                    <img src="products_min/flaer/flaer_a8.jpg" alt="" class="img-responsive">
+                        <div class="product_txt">Флаер А8</div>  
+                </a> 
+            </div>
+
+                
+            </div>
+      
+
+    
+    
+
+    
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+    
+<!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product2.txt"-->
+
+
+
+
+</body>
+
+</html>

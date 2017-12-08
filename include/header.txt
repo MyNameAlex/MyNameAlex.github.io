@@ -1,0 +1,29 @@
+﻿    <div class="top_menu affix" data-offset-top="-1">
+        <nava>
+            <ul>
+                <li><a href="#">О нас<br /> <small>Киевский печатный цех</small></a></li>
+                <li><a href="#" class="product">Цены<br /> <small>на печать полиграфии</small></a></li>
+                <li><a href="#">Дизайн<br /> <small>примеры наших работ</small></a></li>
+                <li><a href="#">Доставка<br /> <small>Новой Почтой за 1 день</small></a></li>
+                <li><a href="#">Технические<br /> <small>требования</small></a></li>
+                <li><a href="#">Просчитать<br /> <small>индивидуальный заказ</small></a></li>
+                <li><a class="" href="#" data-toggle="modal" data-target="#basicModal">Заказать<br /> <small>в один клик</small></a></li>
+                <li><a href="#">Контакты<br /> <small>напишите нам</small></a></li>
+            </ul>
+        </nava>
+
+        
+        
+<!--SECTION-->        
+        <ul class="menu">
+            <li class="c1"><a href="#">Визитка</a></li>
+            <li class="c2"><a href="#">Двойная визитка</a></li>
+            <li class="c3"><a href="#">Визитка скругленная</a></li>
+            <li class="c4"><a href="#">Евровизитка</a></li>
+            <li class="c5"><a href="#">Визитка с ламинацией</a></li>
+            <li class="c6"><a href="#">Минивизитка</a></li>
+            <li class="c7"><a href="#">Визитка на офсете</a></li>
+            <li class="c8"><a href="#">Квадровизитка</a></li>
+
+        </ul>
+    </div>

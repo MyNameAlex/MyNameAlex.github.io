@@ -1,0 +1,130 @@
+    <div class="container" style="margin-top:20px;">
+        <div class="row">
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default" id="tabs_1">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">            
+                            Цены на дизайн полиграфии          
+                            </h4>
+                        </div>
+                    </a>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+
+<p><strong>Листовка А4</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 120-150 грн.</p>
+
+<p>Двухстороннего: 150-200 грн.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Листовка Евро</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 120-150 грн.</p>
+
+<p>Двухстороннего: 150-200 грн.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Листовка Мини</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 100-120 грн.</p>
+
+<p>Двухстороннего: 120-150 грн.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Листовка А3</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 120-150 грн.</p>
+
+<p>Двухстороннего: 150-200 грн.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Листовка А5</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 120-150 грн.</p>
+
+<p>Двухстороннего: 150-200 грн.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Листовка А6</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 100-120 грн.</p>
+
+<p>Двухстороннего: 120-150 грн.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Листовка А7</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 50-90 грн.</p>
+
+<p>Двухстороннего: 60-100 грн.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Листовка А8</strong></p>
+
+<p>Стоимость разработки макета:</p>
+
+<p>Одностороннего: 50-90 грн.</p>
+
+<p>Двухстороннего: 60-100 грн.</p>
+
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="panel panel-default">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">              
+                            Технические требования к продукции            
+                            </h4>
+                        </div>
+                    </a>
+                    <div id="collapseTwo" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <p style="text-align:center">Детально ознакомится с техническими требованиями,</br>можно перейдя по ссылке <a style="background-color: #212226; font-size: 18px;" href="trebovanija.shtml" target="_blank">нажать здесь.</a></p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="panel panel-default">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                        <div class="panel-heading">
+                            <h4 class="panel-title"> 
+                            Контакты
+                            </h4>
+                        </div>
+                    </a>
+                    <div id="collapseThree" class="panel-collapse collapse">
+                    <div class="panel-body">
+		<p style="text-align: center;"> 			<span>Закажите сегодня и уже завтра мы отправим Новой Почтой Вашу продукцию или<br>заберите ее по адресу наших производственных мощностей: <strong>Киев, улица Автозаводская, 78а</strong></span></p> 		<p style="text-align: center;"> 			<span>(044) 333-67-79 (многоканальный)</span></p> 		<p style="text-align: center;"> 			<span>(095) 285-57-31</span></p> 		<p style="text-align: center;"> 			<span>(067) 482-73-06</span></p> 		<p style="text-align: center;"> 			<span>(093) 170-34-58</span></p> 		<p style="text-align: center;"> 			<span><a href="mailto:zakaz@kpw.com.ua" rel="noreferrer noopener" target="_blank">zakaz@kpw.com.ua</a></span></p> 		<p style="text-align: center;"> 			<span></span></p> 		<hr>  		<p style="text-align: center;"> 			<span>График работы:</span></p> 		<p style="text-align: center;"> 			<span>Понедельник - Пятница: с 09.00 до 18.00</span></p> 		<p style="text-align: center;"> 			<span>Суббота - Воскресенье:  с 11.00 до 18.00</span></p>		
+                       
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>

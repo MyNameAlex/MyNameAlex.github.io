@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Разработка дизайна в типографии – Визиток, Еврофлаеров, Флаеров, Баннеров, Бирок, Блокнотов, Буклетов, Календарей, Каталогов, Листовок, Наклеек, Папок, Оракала, Плакатов, Табличек." />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Дизайн полиграфии в типографии. Дизайн Визиток, Флаеров и другой продукции</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    
+    <link href="css/style.css" rel="stylesheet"/>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <link rel="stylesheet" href="css/lightbox.min.css">
+    <script src="js/lightbox-plus-jquery.min.js"></script>
+    
+ <style>
+    body{
+        background: url(bg/1.jpg) no-repeat center bottom fixed;
+        background-size: cover;
+        }
+</style>
+
+    
+  
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix" data-offset-top="-1">
+        <!--#include virtual="include/menu.txt"-->
+
+        <!--SECTION-->        
+        </div>
+
+
+    
+<!--Video-->
+      <div class="container nine_nine" style="margin-bottom: 40px;]">
+        <div class="row">
+          <h2>Дизайн</h2>
+          <div class="spn">Посмотрите здесь последние 200 макетов, сделанных для наших Клиентов.
+Разработка макета с нуля командой дизайнеров.</div>
+        </div>
+        <div class="row">
+            
+            <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/1.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/1.jpg" alt=""/></a></div>
+            <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/2.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/2.jpg" alt=""/></a></div>
+            <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/3.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/3.jpg" alt=""/></a></div>
+            <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/4.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/4.jpg" alt=""/></a></div>
+            <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/5.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/5.jpg" alt=""/></a></div>
+            <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/6.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/6.jpg" alt=""/></a></div>
+            
+            
+            
+            
+            
+            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/7.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/7.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/8.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/8.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/9.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/9.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/10.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/10.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/11.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/11.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/12.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/12.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/13.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/13.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/14.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/14.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/15.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/15.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/16.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/16.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/17.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/17.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/18.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/18.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/19.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/19.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/20.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/20.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/21.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/21.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/22.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/22.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/23.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/23.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/24.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/24.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/25.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/25.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/26.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/26.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/27.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/27.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/28.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/28.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/29.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/29.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/30.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/30.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/31.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/31.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/32.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/32.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/33.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/33.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/34.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/34.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/35.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/35.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/36.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/36.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/37.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/37.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/38.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/38.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/39.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/39.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/40.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/40.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/41.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/41.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/42.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/42.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/43.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/43.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/44.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/44.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/45.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/45.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/46.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/46.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/47.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/47.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/48.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/48.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/49.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/49.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/50.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/50.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/51.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/51.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/52.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/52.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/53.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/53.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/54.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/54.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/55.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/55.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/56.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/56.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/57.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/57.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/58.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/58.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/59.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/59.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/60.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/60.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/61.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/61.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/62.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/62.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/63.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/63.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/64.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/64.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/65.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/65.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/66.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/66.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/67.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/67.jpg" alt=""/></a></div>            
+            
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/68.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/68.jpg" alt=""/></a></div>
+             
+             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/69.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/69.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/70.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/70.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/71.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/71.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/72.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/72.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/73.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/73.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/74.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/74.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/75.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/75.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/76.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/76.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/77.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/77.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/78.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/78.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/79.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/79.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/80.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/80.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/81.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/81.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/82.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/82.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/83.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/83.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/84.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/84.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/85.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/85.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/86.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/86.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/87.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/87.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/88.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/88.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/89.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/89.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/90.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/90.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/91.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/91.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/92.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/92.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/93.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/93.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/94.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/94.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/95.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/95.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/96.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/96.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/97.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/97.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/98.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/98.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/99.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/99.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/100.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/100.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/101.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/101.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/102.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/102.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/103.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/103.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/104.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/104.jpg" alt=""/></a></div>             
+                        
+             <div class="col-md-4 col-sm-6 col-xs-12"><a class="example-image-link" href="gallery/1050/105.jpg" data-lightbox="1" data-title=""><img class="example-image shadow_img center-block" src="gallery/290/105.jpg" alt=""/></a></div>     
+                       
+            
+                       
+
+          </div>
+      </div>
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    <!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product2.txt"-->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+    <div class="container" style="margin-top:-2px;">
+        <div class="row">
+            <h2>График печати</h2>
+            <div class="spn">Закажите сегодня и уже завтра мы отправим <strong>Новой Почтой</strong> Вашу продукцию.</div>
+        </div>
+    </div>
+
+
+
+    <div class="container" style="margin-top:6px; margin-bottom:-20px;">
+        <div class="row aaa">
+            <table class="table zebra2">
+                <tbody>
+                    <tr class="t_one">
+                        <td>Прием заказов в печать</td>
+                        <td>04 декабря</td>
+                        <td>05 декабря</td>
+                        <td>06 декабря</td>
+                        <td>07 декабря</td>
+                        <td>08 декабря</td>
+                        <td>09 декабря</td>
+                        <td>10 декабря</td>
+                    </tr>
+                    <tr class="t_two">
+                        <td>Передача заказа на Новую Почту</td>
+                        <td>07 декабря</td>
+                        <td>08 декабря</td>
+                        <td>09 декабря</td>
+                        <td>12 декабря</td>
+                        <td>13 декабря</td>
+                        <td>14 декабря</td>
+                        <td>14 декабря</td>
+                    </tr>
+                    <tr class="t_three">
+                        <td>Получение заказа на Новой Почте</td>
+                        <td>08 декабря</td>
+                        <td>09 декабря</td>
+                        <td>11 декабря</td>
+                        <td>13 декабря</td>
+                        <td>14 декабря</td>
+                        <td>15 декабря</td>
+                        <td>15 декабря</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>

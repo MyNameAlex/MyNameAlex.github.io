@@ -1,0 +1,15 @@
+        <ul class="menu">
+       
+            <li class="c4"><a href="karmannye-kalendari.shtml"  style="line-height: 25px;">Карманные календари без ламинации
+</a></li>        
+            <li class="c5"><a href="karmannye-kalendari-lamin.shtml"  style="line-height: 25px;">Карманные календари с ламинацией
+</a></li>        
+            <li class="c6"><a href="kalendar-kvartal-1pry.shtml"  style="line-height: 25px;">Квартальный календарь (1 пружина)
+</a></li>        
+            <li class="c7"><a href="kalendar-kvartal-3pry.shtml"  style="line-height: 25px;">Квартальный календарь (3 пружины)
+</a></li>        
+            <li class="c8"><a href="kalendar-domik-bez.shtml"  style="line-height: 25px;">Календарь-домик (без перекидных листов)
+</a></li>
+            <li class="c3"><a href="kalendar-domik-perekid.shtml"  style="line-height: 25px;">Календарь-домик (с перекидными листами)
+</a></li>   
+        </ul>

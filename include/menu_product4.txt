@@ -1,0 +1,5 @@
+        <ul class="menu">
+            <li class="c1"><a href="birki-50x90.shtml">Бирки 50x90</a></li>
+            <li class="c2"><a href="birki-45x50.shtml">Бирки 45x50</a></li>
+            <li class="c3"><a href="birki-30x50.shtml">Бирки 30x50</a></li>
+        </ul>

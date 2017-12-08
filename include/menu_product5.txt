@@ -1,0 +1,6 @@
+        <ul class="menu">
+ 
+            <li class="c5"><a href="bloknoty.shtml">Блокноты
+</a></li>        
+            
+        </ul>

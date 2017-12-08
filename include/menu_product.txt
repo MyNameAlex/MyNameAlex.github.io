@@ -1,0 +1,10 @@
+        <ul class="menu">
+            <li class="c1"><a href="index2.shtml">Визитка</a></li>
+            <li class="c2"><a href="index3.shtml">Двойная визитка</a></li>
+            <li class="c3"><a href="#">Визитка скругленная</a></li>
+            <li class="c4"><a href="#">Евровизитка</a></li>
+            <li class="c5"><a href="#">Визитка с ламинацией</a></li>
+            <li class="c6"><a href="#">Минивизитка</a></li>
+            <li class="c7"><a href="#">Визитка на офсете</a></li>
+            <li class="c8"><a href="#">Квадровизитка</a></li>
+        </ul>

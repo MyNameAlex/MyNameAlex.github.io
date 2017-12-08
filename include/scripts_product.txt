@@ -1,0 +1,37 @@
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+    
+    
+<!--MENU_ACTIVE-->    
+        <script>
+      
+        $(document).ready(function(){
+        $('ul.top_menu2 a').each(function () {
+        if (this.href == location.href) $(this).addClass('product2');
+        });
+        });
+            
+        $(document).ready(function(){
+        $('ul.menu a').each(function () {
+        if (this.href == location.href) $(this).parent().addClass('active');
+        });
+        });
+           
+        </script>
+    
+<!--SLIDER-->
+    <script src="js/jquery.bxslider.min.js"></script>
+    <link href="css/jquery.bxslider.css" rel="stylesheet" />
+    <script>
+        $('.bxslider').bxSlider({
+            minSlides: 2,
+            maxSlides: 10,
+            slideWidth: 270,
+            slideMargin: 10,
+            ticker: true,
+            speed: 50000
+        });
+    </script>

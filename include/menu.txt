@@ -1,0 +1,12 @@
+        <nava>
+            <ul class="top_menu1">
+                <li><a href="http://kpw.com.ua/">О нас<br /> <small>Киевский печатный цех</small></a></li>
+                <li><a href="product.shtml" class="product">Цены<br /> <small>на печать полиграфии</small></a></li>
+                <li><a href="dizajn.shtml">Дизайн<br /> <small>примеры наших работ</small></a></li>
+                <li><a href="dostavka.shtml">Доставка<br /> <small>Новой Почтой за 1 день</small></a></li>
+                <li><a href="trebovanija.shtml">Технические<br /> <small>требования</small></a></li>
+                <li><a href="zakaz.php">Просчитать<br /> <small>индивидуальный заказ</small></a></li>                
+                <li><a href="#call" class="bingc-action-open-passive-form">Заказать<br /> <small>в один клик</small></a></li>
+                <li><a href="contacts.shtml">Контакты<br /> <small>напишите нам</small></a></li>
+            </ul>
+        </nava>

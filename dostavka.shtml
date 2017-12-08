@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <meta name="description" content="Мы доставляем продукцию по Киеву и всей Украине быстро, надежно, всего за один день. Помогает нам в этом компания <Нова Пошта>." />
+<!--    <meta name="google-site-verification" content="ay_121MILzRGUqPyaI4wituz0hibszrE6c8p2GM_d54" />-->
+
+
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+
+    <title>Доставка по Украине и Киеву в типографии Киевский Печатный Цех</title>
+
+
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    
+    <link href="css/style.css" rel="stylesheet"/>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+ 
+    
+    
+    <!--VIDEO STYLE-->
+    <link rel="stylesheet" href="bg/reset.css">
+    <link rel="stylesheet" href="bg/style.css">
+    
+    <style>
+        #video-bg{
+        position: fixed;
+                        z-index: -9999 !important;
+            background: url(bg/daisy-stock-poster.jpg) no-repeat #383838;
+        }
+        #video-bg > video{
+            display: inline-block !important; 
+
+        }
+
+.affix {
+    position: relative !important;
+    }
+.cont{margin-top: 50px;
+            text-align: -webkit-center !important; }
+    </style>
+ 
+    
+    
+    <!--NP STYLE-->
+<link rel='stylesheet' href='https://apimgmtstorelinmtekiynqw.blob.core.windows.net/content/MediaLibrary/Widget/Tracking/styles/tracking.css' />
+<link rel='stylesheet' href='https://apimgmtstorelinmtekiynqw.blob.core.windows.net/content/MediaLibrary/Widget/Map/styles/map.css' />    
+  
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109974841-1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-109974841-1'); </script>       </head>
+
+
+
+
+
+
+
+
+
+
+<body>
+    
+    
+    
+<!--MENU-->
+        <div class="top_menu affix marg" data-offset-top="-1">
+        <!--#include virtual="include/menu.txt"-->
+
+        <!--SECTION-->        
+        </div>
+
+
+    
+<!--Video-->
+<div id="video-bg">
+	<video width="100%" height="auto" autoplay="autoplay" loop="loop" preload="auto" poster="bg/daisy-stock-poster.jpg">
+		<source src="bg/daisy-stock-h264-video.mp4" type="video/mp4"></source>
+		<source src="bg/daisy-stock-webm-video.webm" type="video/webm"></source>
+	</video>
+</div>
+
+
+
+
+    
+<!--NP-->
+    <div class="container cont">
+        
+        <p style="text-align: center;">
+			<span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size: 28px;line-height: 1.42857143;color: #333;">Доставка:</span></p>
+		<div class="row">
+<!--			<p style="text-align: center;">
+				<span style="font-size:14px;">Производственные мощности Киевского печатного цеха находятся по адресу:&nbsp;</span></br><strong>Киев, улица Автозаводская, 78а</strong></p>-->
+			<p style="text-align: center;">
+                <span style="font-size: 18px;">Мы доставляем продукцию по Киеву и всей Украине быстро, надежно, всего <strong>за один день.</strong></br>Помогает нам в этом компания <strong>&quot;Нова Пошта&quot;.</strong></span></p>
+			<hr />
+		</div>
+
+        
+        
+        
+        
+        
+        
+        
+    <div class="row">
+            
+                
+   			<p style="text-align: center;">
+				<span style="font-size:14px;">У нас на сайте, Вы можете посмотреть ближайшее к Вам отделение на карте, нажмите на кнопку ниже:</span>       </p> 
+
+                
+<div id="np-map" style="margin-top: 15px;"> <button type="button" id="npw-map-open-button">БЛИЖАЙШЕЕ ОТДЕЛЕНИЕ</button> <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAPhm7Q29X5ldwjLtA7IMYHU_0xATiWK3A&amp;language=ru"></script> </div>
+ 		<hr />      
+     
+    
+    </div>
+    
+        
+    <div class="row" style="padding-top: 0px; ">
+               
+        
+    			<p style="text-align: center;">
+				<span style="font-size: 18px; text-align: center;">Также, Вы можете отследить заказ по его номеру, воспользовавшись формой ниже&nbsp; :</span>        </p>
+       
+        
+        <div id="np-tracking" class="np-w-br-0" style="background-color: rgb(241, 241, 241); width: 250px; min-height: 370px;                 margin-top: 15px;"> <div id="np-first-state"> <div id="np-tracking-logo"></div> <div id="np-title"> <div class="np-h1"> <span class="np-h1-span1">ОТСЛЕЖИВАНИЕ</span> <br> <span class="np-h1-span2">ПОСЫЛОК</span> </div> </div> <div id="np-input-container"> <div id="np-clear-input"></div> <input id="np-user-input" type="text" name="number" placeholder="Номер посылки"> </div> <div id="np-warning-message"></div> <button id="np-submit-tracking" type="button" disabled="" style="background-color: rgb(209, 213, 218); border: 1px solid rgb(196, 196, 196);"> <span id="np-text-button-tracking">ОТСЛЕДИТЬ</span> <div id="np-load-image-tracking"></div> </button> <div id="np-error-status"></div> </div> <div id="np-second-state"> <div id="np-status-icon"></div> <div id="np-status-message"></div> <div class="np-track-mini-logo"> <div class="np-line-right"></div> <div class="np-line-left"></div> </div> <a href="#" id="np-more">Подробнее на сайте</a> <div id="np-return-button"> <span id="np-return-button-span">Другая посылка</span> </div> </div> </div>
+        
+
+    
+    </div>
+    
+        
+        
+        </div>
+        
+</br>
+</br>
+
+
+<!--FOOTER-->
+    
+    <!--#include virtual="include/footer.txt"-->
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--MODAL-->
+
+    <!--#include virtual="include/modal.txt"-->
+
+
+    
+    <!--SCRIPTS PRODUCT SLIDER-->
+    <!--#include virtual="include/scripts_product2.txt"-->
+    
+    
+<!--NP-->
+<script type='text/javascript' id='track' charset='utf-8' data-lang='ru' apiKey='2c1680f842f2b81717cc240ddc5f00d1' data-town='city-not-default' data-town-name='undefined' data-town-id='undefined' src='https://apimgmtstorelinmtekiynqw.blob.core.windows.net/content/MediaLibrary/Widget/Tracking/dist/track.min.js'></script>
+
+    
+    
+<script type='text/javascript' id='map' charset='utf-8' data-lang='ru' apiKey='2c1680f842f2b81717cc240ddc5f00d1' data-town='undefined' data-town-name='undefined' data-town-id='undefined' src='https://apimgmtstorelinmtekiynqw.blob.core.windows.net/content/MediaLibrary/Widget/Map/dist/map.min.js'></script>
+</body>
+
+</html>

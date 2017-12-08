@@ -1,0 +1,41 @@
+    <div class="container" style="margin-top:-2px;">
+        <div class="row">
+            <h2>График печати</h2>
+            <div class="spn">Закажите сегодня и уже завтра мы отправим Новой Почтой Вашу продукцию.</div>
+        </div>
+    </div>
+
+
+
+    <div class="container" style="margin-top:6px; margin-bottom:-20px;">
+        <div class="row aaa">
+            <table class="table">
+                <tbody>
+                    <tr class="t_one">
+                        <td>Отправка заказа в печать</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                    </tr>
+                    <tr class="t_two">
+                        <td>Готовность заказа </td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                    </tr>
+                    <tr class="t_three">
+                        <td>Выдача в "Новой почте"</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                        <td>25 сентября</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>

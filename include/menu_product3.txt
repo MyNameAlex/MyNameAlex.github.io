@@ -1,0 +1,3 @@
+        <ul class="menu">
+            <li class="c6"><a href="bannery.shtml">Баннеры</a></li>
+        </ul>

@@ -1,0 +1,15 @@
+        <ul class="menu">
+       
+            <li class="c4"><a href="evrobuklet.shtml">Евробуклет
+</a></li>        
+            <li class="c5"><a href="minibuklet.shtml">Минибуклет
+</a></li>        
+            <li class="c6"><a href="buklet-a7.shtml">Буклет А7
+</a></li>        
+            <li class="c7"><a href="buklet-a6.shtml">Буклет А6
+</a></li>        
+            <li class="c8"><a href="buklet-a5.shtml">Буклет А5
+</a></li>
+            <li class="c3"><a href="buklet-a4.shtml">Буклет А4
+</a></li>   
+        </ul>

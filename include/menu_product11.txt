@@ -1,0 +1,12 @@
+        <ul class="menu">
+              
+            <li class="c5"><a href="evrokatalog.shtml">Еврокаталог
+</a></li>        
+            <li class="c6"><a href="katalog-a6.shtml">Каталог А6
+</a></li>        
+            <li class="c7"><a href="katalog-a5.shtml">Каталог А5
+</a></li>        
+            <li class="c8"><a href="katalog-a4.shtml">Каталог А4
+</a></li>
+
+        </ul>
